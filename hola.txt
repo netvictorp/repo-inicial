@@ -1,6 +1,9 @@
 hol a hola hola x tercera vez 
 
-ahora estoy en GITHUB haciendo cambios
+ahora estoy en GITHUB haciendo cambios 
+
+ahora en GIT para hacer push
+
 
 
 
