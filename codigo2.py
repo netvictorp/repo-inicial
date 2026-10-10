@@ -1,2 +1,2 @@
-nombre = "ornelio sasacatunga"
+nombre = "valente cuchichiani"
 print ("hola " + nombre)
